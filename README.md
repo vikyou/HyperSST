@@ -1,4 +1,4 @@
-PyTorch implementation of the method proposed in the paper: "Hypergraph Self-Supervised Learning based Joint Spectral-Spatial-Temporal Feature Representation for Remote Sensing Image Change Detection".
+# Hypergraph Self-Supervised Learning based Joint Spectral-Spatial-Temporal Feature Representation for Remote Sensing Image Change Detection
 
 ## Requirements
 - Python 3.9.12

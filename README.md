@@ -8,4 +8,15 @@
 - Scikit-learn 1.0.2
 - PyYAML 6.0 
 
+## Cite
+Please cite our paper if you use this code in your own work:
 
+```
+@article{jian2024hypergraph,
+  title={Hypergraph Self-Supervised Learning based Joint Spectral-Spatial-Temporal Feature Representation for Hyperspectral Image Change Detection},
+  author={Jian, Ping and Ou, Yimin and Chen, Keming},
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  year={2024},
+  publisher={IEEE}
+}
+```
